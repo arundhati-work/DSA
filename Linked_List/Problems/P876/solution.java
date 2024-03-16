@@ -1,9 +1,11 @@
 package Linked_List.Problems.P876;
 
+import Linked_List.LinkedList.Node;
+
 class Solution {
-    public ListNode middleNode(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
+    public Node middleNode(Node head) {
+        Node slow = head;
+        Node fast = head;
 
         while (fast != null && fast.next != null) {
             slow = slow.next;
