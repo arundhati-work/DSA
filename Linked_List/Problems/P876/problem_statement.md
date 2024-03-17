@@ -1,8 +1,6 @@
-### LeetCode Problem #876  
-# Middle of the Linked List  
-### Difficulty: EASY
+[LeetCode Problem #876](https://leetcode.com/problems/middle-of-the-linked-list/description/)  
+# Middle of the Linked List (Easy)  
 
-## Problem Statement  
 Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle node.
 
 *Example 1*
