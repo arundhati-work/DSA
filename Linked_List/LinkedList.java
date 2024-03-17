@@ -4,8 +4,8 @@ public class LinkedList {
     Node head;
     int currentSize;
 
-    public class Node {
-        int data;
+    public static class Node {
+        public int data;
         public Node next;
 
         public Node(int d) {
@@ -13,10 +13,10 @@ public class LinkedList {
             next = null;
         }
 
-        Node() {
+        public Node() {
         }
 
-        Node(int val, Node next) {
+        public Node(int val, Node next) {
             this.data = val;
             this.next = next;
         }
