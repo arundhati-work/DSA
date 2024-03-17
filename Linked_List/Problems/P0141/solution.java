@@ -1,4 +1,4 @@
-package Linked_List.Problems.P141;
+package Linked_List.Problems.P0141;
 import Linked_List.LinkedList.Node;
 
 public class solution {

@@ -1,4 +1,4 @@
-[LeetCode Problem #83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+[LeetCode Problem #0083](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
 # Remove Duplicates from Sorted List (Easy)
 

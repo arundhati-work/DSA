@@ -1,4 +1,4 @@
-[LeetCode Problem #141](https://leetcode.com/problems/linked-list-cycle/description/)
+[LeetCode Problem #0141](https://leetcode.com/problems/linked-list-cycle/description/)
 
 # Linked List Cycle (Easy)
 

@@ -1,4 +1,4 @@
-package Linked_List.Problems.P876;
+package Linked_List.Problems.P0876;
 
 import Linked_List.LinkedList.Node;
 
