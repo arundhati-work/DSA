@@ -9,3 +9,4 @@
 * P0206 - Reverse Linked List (Easy)  
 * P0234 - Palindrome Linked List (Easy)
 * P0876 - Middle of the Linked List (Easy)  
+* P1290 - Convert Binary Number in a Linked List to Integer (Easy)
